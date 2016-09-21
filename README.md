@@ -44,7 +44,7 @@ We'll add more of these common problems as well as resolutions for these problem
 ### Example: Students have trouble getting their lights to turn green when they fork a lab.
 *  First ask the student to **refresh the page**. This sounds simple but in many cases, it does the trick.
 * If that doesn’t work, then walk the student through going to Github, deleting their fork of the lab, then having them re-fork the lab.
-*  **If it doesn’t work after the above actions, then tell students that they should move on to the next lesson.** Tell the student that we will have the lights turn green for them on our end. Email Avidor (avidor@flatironschool.com) the lab, the light, and the username to get it fixed on the back end. Make sure the subject line of your email starts with “Lights:”
+*  **If it doesn’t work after the above actions, then tell students that they should move on to the next lesson.** Tell the student that we will have the lights turn green for them on our end. Use the Report a Bug button in /expert-chat to report a Lights issue. 
 
 >Note: If a student is having an issue with the Test light. Pull down their code and run it locally to make sure their tests are ACTUALLY passing.
 
