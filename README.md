@@ -44,7 +44,7 @@ We'll add more of these common problems as well as resolutions for these problem
 ### Example: Students have trouble getting their lights to turn green when they fork a lab.
 *  First ask the student to **refresh the page**. This sounds simple but in many cases, it does the trick.
 * If that doesn’t work, then walk the student through going to Github, deleting their fork of the lab, then having them re-fork the lab.
-*  **If it doesn’t work after the above actions, then tell students that they should move on to the next lesson.** Tell the student that we will have the lights turn green for them on our end. Use the Report a Bug button in /expert-chat to report a Lights issue. 
+*  **If it doesn’t work after the above actions, then tell students that they should move on to the next lesson.** Tell the student that we will have the lights turn green for them on our end. Use the Report a Bug button in /expert-chat to report a Lights issue.
 
 >Note: If a student is having an issue with the Test light. Pull down their code and run it locally to make sure their tests are ACTUALLY passing.
 
@@ -53,6 +53,8 @@ We'll add more of these common problems as well as resolutions for these problem
 Non-working light in the Welcome Track will prevent completion of the welcome track which in turn, prevents new tracks being added to the student. Take a look at the troubleshooting steps for ['Learn IDE authentication light is broken'](https://github.com/flatiron-labs/learn-support/blob/master/learn-ide.md#authentication-light-did-not-turn-on) if that's the issue you're running into. If that does not solve the problem, you'll need to escalate issues in this track.
 
 ## 2) Lab tests don't run
+
+![tests dont run](http://i.giphy.com/qvSGXu0VdKMBa.gif "Tests dont run")
 
 * Student isn’t at the point where they are able to run their tests and when they try, they get errors or their program breaks.
 * These errors are usually either environment issues or they can be syntax issues.
@@ -66,6 +68,8 @@ Non-working light in the Welcome Track will prevent completion of the welcome tr
 * If this is a syntax error and you know that it’s something that the student did wrong with their code, then read through the error. Then ask the student if they know what this error means. If the student doesn’t know within three questions of you asking, then point it out specifically. Then tell them to look through their code and see if they are missing anything and then have them re-run it. If after 10 minutes of this, they’re still stuck, then have them ask you again. At this point, you can provide them with the answer. A lot of times the error will tell you what line has a syntax issue. Make sure you point this out to the student and show them how you are solving it, so they can replicate your technique! *(Example: running a chunk of problem code in IRB or Chrome console)*.
 
 ## 3) Tests run but student gets error messages they don’t know how to fix.
+
+![tests fail](http://i.giphy.com/xT8qB2HYA1vVSxooSY.gif "Tests fail")
 
 Great, everything is working! But students are confused about the code. This is where the actual learning can happen. And as a Learn Expert, you will use a variety of strategies to get students to the point where they know what they need to do to get their tests to pass. Some common questions will revolve around:
 
