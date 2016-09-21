@@ -145,4 +145,4 @@ Kindly tell the student that you cannot answer their assessment questions as the
 
 ## Resources
 
-- https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md Here is a slightly more condensed version of this that you can use when on shift
+- [A slightly more condensed version of this that you can use when on shift](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md )
