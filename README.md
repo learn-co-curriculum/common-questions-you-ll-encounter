@@ -113,8 +113,9 @@ Students don’t have a specific testing issue, but instead they are struggling 
 - Students will ask about a specific concept
 - Students may initially have questions about failing tests, but after you’ve debugged and worked with them, you may realize that there are larger concepts that they don’t understand fully. (For example: You're working on rails form helpers and then realize that they have no idea what ‘params’ is)
 
-### Strategies for Resolution
+**Note: If you notice a payed student (V-000 batch) is struggling with a concept, make sure to note it in their admin profile and email or slack Avidor so we can get this student additional help!**
 
+### Strategies for Resolution
 
 First identify the concept that the student is having trouble with. Do this first by eliciting questions
 
@@ -129,8 +130,6 @@ If this is the first time or you feel like you can explain this concept well and
 - Start with the most basic component and use short concept questions to check to see what the student does know. Concept questions are simple and straightforward and usually require a yes/no or short answer.
 - At some point you’ll see where exactly the student is lost. Now you’ll take the reins and continue demoing the rest of the concept. Walk the students through this and be didactic. Every few minutes, just check to make sure that the student understands what you’re presenting or whether they need things clarified.
 - At the end of the demo, have the student summarize to you as best as they can what you just covered.
-
-**Note:** Even if you feel good about explaining the concept, still email Avidor if this student has already been identified as having an issue with it.
 
 ## 5) Unsupported
 
