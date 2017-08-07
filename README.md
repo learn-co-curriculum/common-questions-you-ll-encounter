@@ -29,7 +29,7 @@ As a Learn Expert, you’ll be getting all sorts of question from all sorts of d
 
 ## 1) Learn/IDE/Workflow Issues
 
-* These questions are not related to the specific content of the lesson but are usually issues students are having that are preventing them from moving forward. With these questions, the goal for you as a Lean Expert is to get students through these questions as quickly as possible so that they can get to working on lessons.
+* These questions are not related to the specific content of the lesson but are usually issues students are having that are preventing them from moving forward. With these questions, the goal for you as a Learn Expert is to get students through these questions as quickly as possible so that they can get to working on lessons.
 * For these questions, don’t worry about using the Socratic method or making it a learning experience. In many cases, you’ll be telling students what exactly to do. Sometimes at the end you can send them links or resources that might be helpful in giving them a better understanding of the problem or for them to use as a reference in the future.
 * In some cases, you might not be able to solve the problem for them but if they’re still able to progress in the curriculum content, then you will want to tell them to move on.
 
@@ -144,3 +144,5 @@ Kindly tell the student that you cannot answer their assessment questions as the
 ## Resources
 
 - [A slightly more condensed version of this that you can use when on shift](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md )
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/common-questions-you-ll-encounter'>Common Questions You'll Encounter </a> on Learn.co and start learning to code for free.</p>
