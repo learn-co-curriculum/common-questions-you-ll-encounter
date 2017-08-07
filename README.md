@@ -1,6 +1,6 @@
 # Five Types of Questions You'll Encounter
 
-As a Learn Expert, you’ll be getting all sorts of question from all sorts of different students. It can be overwhelming to have to constantly switch contexts (in terms of the student, the topic, and the question). Broadly speaking, the questions will fall into the four categories listed below. For each category of question, we’ve given examples as well as specific strategies you can use to resolve them.
+As a Technical Coach, you’ll be getting all sorts of question from all sorts of different students. It can be overwhelming to have to constantly switch contexts (in terms of the student, the topic, and the question). Broadly speaking, the questions will fall into the four categories listed below. For each category of question, we’ve given examples as well as specific strategies you can use to resolve them.
 
 ## Questions Types and Resolutions at a Glance
 
@@ -29,7 +29,7 @@ As a Learn Expert, you’ll be getting all sorts of question from all sorts of d
 
 ## 1) Learn/IDE/Workflow Issues
 
-* These questions are not related to the specific content of the lesson but are usually issues students are having that are preventing them from moving forward. With these questions, the goal for you as a Lean Expert is to get students through these questions as quickly as possible so that they can get to working on lessons.
+* These questions are not related to the specific content of the lesson but are usually issues students are having that are preventing them from moving forward. With these questions, the goal for you as a Technical Coach is to get students through these questions as quickly as possible so that they can get to working on lessons.
 * For these questions, don’t worry about using the Socratic method or making it a learning experience. In many cases, you’ll be telling students what exactly to do. Sometimes at the end you can send them links or resources that might be helpful in giving them a better understanding of the problem or for them to use as a reference in the future.
 * In some cases, you might not be able to solve the problem for them but if they’re still able to progress in the curriculum content, then you will want to tell them to move on.
 
@@ -71,7 +71,7 @@ Non-working light in the Welcome Track will prevent completion of the welcome tr
 
 ![tests fail](http://i.giphy.com/xT8qB2HYA1vVSxooSY.gif "Tests fail")
 
-Great, everything is working! But students are confused about the code. This is where the actual learning can happen. And as a Learn Expert, you will use a variety of strategies to get students to the point where they know what they need to do to get their tests to pass. Some common questions will revolve around:
+Great, everything is working! But students are confused about the code. This is where the actual learning can happen. And as a Technical Coach, you will use a variety of strategies to get students to the point where they know what they need to do to get their tests to pass. Some common questions will revolve around:
 
 - Student doesn’t know why their tests aren’t passing
 - Student doesn’t understand what the error message means
@@ -121,7 +121,7 @@ First identify the concept that the student is having trouble with. Do this firs
 
 - Click on their icon in the /expert-chat to get to the student’s /admin page.
 - Make a note here that the student is having an issue with the specific concept (add detail where you can).
-- If you see that other experts have already pointed out that this student doesn’t understand the concept, send Avidor an email explaining this and send the link to the student’s /admin page.
+- If you see that other technical coaches have already pointed out that this student doesn’t understand the concept, send Avidor an email explaining this and send the link to the student’s /admin page.
 
 If this is the first time or you feel like you can explain this concept well and fairly quickly, go ahead and try to lend the student a hand. Here are some quick tips below but if you don't feel comfortable doing this, that's completely fine and you can let Avidor know.
 
@@ -135,7 +135,7 @@ If this is the first time or you feel like you can explain this concept well and
 
 These are questions that we do not support students on.
 
-Most importantly, if a student asks a question on **assessments** we will not support them. We use assessments to see how a student has done in a specific topic and instructors will pair with students and assess their skills. Because of this, students should not be asking experts for help with their assessment project as they should be working on these projects on their own or reaching out to the [instructor in charge of the section](https://github.com/learn-co-curriculum/learn-expert-learn-instructors) for help.
+Most importantly, if a student asks a question on **assessments** we will not support them. We use assessments to see how a student has done in a specific topic and instructors will pair with students and assess their skills. Because of this, students should not be asking technical coaches for help with their assessment project as they should be working on these projects on their own or reaching out to the [instructor in charge of the section](https://github.com/learn-co-curriculum/learn-expert-learn-instructors) for help.
 
 ### Strategies for Resolution
 
