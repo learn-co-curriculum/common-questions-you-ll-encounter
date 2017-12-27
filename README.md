@@ -6,23 +6,28 @@ As a Technical Coach, you’ll be getting all sorts of question from all sorts o
 
 ### [**Question Type**: Learn/IDE/Workflow Issue ](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md#1-learnideworkflow-issues)   
 **What is it**: Problems with the platform and workflow (lights/IDE/empty cloned directory/billing/etc)  
+
 **Resolution**: Solve the problem for the student or if they can keep moving on in the curriculum, tell them to just keep going. Report a bug if needed, but get the student to move on if possible.
 
 ### [**Question Type**: Lab tests aren’t running](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md#2-lab-tests-dont-run)   
 **What is it**: Environment or syntax errors or program breaks when running tests  
+
 **Resolution**: For environment errors, solve the problem for the student. For syntax errors, use teaching strategies to get students to debug themselves.
 
 ### [**Question Type**: Lab tests run but students are getting failures](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md#3-tests-run-but-student-gets-error-messages-they-dont-know-how-to-fix)  
-**What is it**: Pretty self-explanatory from above title  
+**What is it**: Pretty self-explanatory from above title 
+
 **Resolution**: Use the Socratic method and other teaching strategies to get students to debug the failures.   
 
 ### [**Question Type**: Conceptual](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md#4-conceptual-questions)   
-**What is it**: Students have trouble with larger concepts beyond a test failure  
+**What is it**: Students have trouble with larger concepts beyond a test failure
+
 **Resolution**: Document this in the student’s admin page and escalate if the same issue has already been noted. You can try and solve the student’s issue through a very comprehensive walkthrough of the concept.   
 
 
 ### [**Question Type**: Unsupported](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md#5-unsupported)
-**What is it**: We won't support these types of questions. Primarily these will be questions students have on assessments
+**What is it**: We won't support these types of questions. Primarily these will be questions students have on assessments.
+
 **Resolution**: Be kind and tell them that we can't support the question, if it's an assessment, let them know to schedule a 1:1 with a portfolio support coach and hand out this [link](https://theflatironschool.typeform.com/to/UUhrc7)
 
 ---
