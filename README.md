@@ -14,7 +14,7 @@ As a Technical Coach, you’ll be getting all sorts of question from all sorts o
 
 ### [**Question Type**: Lab tests run but students are getting failures](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md#3-tests-run-but-student-gets-error-messages-they-dont-know-how-to-fix)  
 **What is it**: Pretty self-explanatory from above title  
-**Resolution**: Use the Socratic method and other teaching strategies to get students to debug the failures. Do not give the answer right away. Students won't learn that way.   
+**Resolution**: Use the Socratic method and other teaching strategies to get students to debug the failures.   
 
 ### [**Question Type**: Conceptual](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md#4-conceptual-questions)   
 **What is it**: Students have trouble with larger concepts beyond a test failure  
@@ -23,7 +23,7 @@ As a Technical Coach, you’ll be getting all sorts of question from all sorts o
 
 ### [**Question Type**: Unsupported](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md#5-unsupported)
 **What is it**: We won't support these types of questions. Primarily these will be questions students have on assessments
-**Resolution**: Be kind and tell them that we can't support the question
+**Resolution**: Be kind and tell them that we can't support the question, if it's an assessment, let them know to schedule a 1:1 with a portfolio support coach and hand out this [link](https://theflatironschool.typeform.com/to/UUhrc7)
 
 ---
 
@@ -80,10 +80,8 @@ Great, everything is working! But students are confused about the code. This is 
 
 ### Strategies for Resolution
 
-* Have the students copy and paste their error message(s)
-* If you understand what the error is, then have the student copy and paste their code. Depending on the length of the code, you may also just want them to post the code around the specific lines where the error is.
-* Debug the code yourself
-* Make sure you know now what they need to do to get the test to pass. If you don’t know at this point, then ask them to push up (if they haven’t already) what they have so far. Tell them that you’ll need about 5-10 minutes to run their code and debug to see what the problem is.
+* Have the students read their error message(s)
+* Depending on the length of the code, you may also just want them to post the code around the specific lines where the error is.
 * In any event, the goal is that you need to know before you start troubleshooting with the student, what the problem is that the student is having.
 * Once you know what that problem is, then this is where you start using the Socratic method to get them to figure out what to do correct.
 * The easiest way to start is by saying, “Ok, decode that error message for me. What does it say?”
@@ -113,7 +111,7 @@ Students don’t have a specific testing issue, but instead they are struggling 
 - Students will ask about a specific concept
 - Students may initially have questions about failing tests, but after you’ve debugged and worked with them, you may realize that there are larger concepts that they don’t understand fully. (For example: You're working on rails form helpers and then realize that they have no idea what ‘params’ is)
 
-**Note: If you notice a payed student (V-000 batch) is struggling with a concept, make sure to note it in their admin profile and email or slack Avidor so we can get this student additional help!**
+**Note: If you notice a payed student (V-000 batch) is struggling with a concept, make sure to note it in their admin profile and email or slack Ruth or the Section Lead in charge of the section so we can get this student additional help!**
 
 ### Strategies for Resolution
 
@@ -121,9 +119,9 @@ First identify the concept that the student is having trouble with. Do this firs
 
 - Click on their icon in the /expert-chat to get to the student’s /admin page.
 - Make a note here that the student is having an issue with the specific concept (add detail where you can).
-- If you see that other technical coaches have already pointed out that this student doesn’t understand the concept, send Avidor an email explaining this and send the link to the student’s /admin page.
+- If you see that other technical coaches have already pointed out that this student doesn’t understand the concept, send Ruth or the section lead in charge an email or DM explaining this and send the link to the student’s /admin page.
 
-If this is the first time or you feel like you can explain this concept well and fairly quickly, go ahead and try to lend the student a hand. Here are some quick tips below but if you don't feel comfortable doing this, that's completely fine and you can let Avidor know.
+If this is the first time or you feel like you can explain this concept well and fairly quickly, go ahead and try to lend the student a hand. Here are some quick tips below but if you don't feel comfortable doing this, that's completely fine and you can let Ruth or the section lead in charge know.
 
 - Pull out from the context of the specific lesson the student is working with and give other code examples of this concept. - Ask the student then to explain the underlying concept or more specifically, ask the student why the result is what it is and then have them elicit the rules from there.
 - Once you know where they’re having trouble then you can make sure that you have the concept broken down into its most basic components and how these components build on top of each other.
@@ -135,11 +133,11 @@ If this is the first time or you feel like you can explain this concept well and
 
 These are questions that we do not support students on.
 
-Most importantly, if a student asks a question on **assessments** we will not support them. We use assessments to see how a student has done in a specific topic and instructors will pair with students and assess their skills. Because of this, students should not be asking technical coaches for help with their assessment project as they should be working on these projects on their own or reaching out to the [instructor in charge of the section](https://github.com/learn-co-curriculum/learn-expert-learn-instructors) for help.
+Most importantly, if a student asks a question on **assessments** we will not support them. We use assessments to see how a student has done in a specific topic and instructors will pair with students and assess their skills. Because of this, students should not be asking technical coaches for help with their assessment project as they should be working on these projects on their own, scheduling a 1:1 with a portfolio coach via this [link](https://theflatironschool.typeform.com/to/UUhrc7), or reaching out to the [section lead in charge of the section](https://github.com/learn-co-curriculum/learn-expert-learn-instructors) for help.
 
 ### Strategies for Resolution
 
-Kindly tell the student that you cannot answer their assessment questions as they are meant to do these on their own. If they are feeling frustrated, tell them that they can always reach out to the instructor in charge of the topic that they're own and they'll receive help soon. We never want to annoy or add to a student's frustration so be kind, friendly, and point them in the right direction for instructional support.
+Kindly tell the student that you cannot answer their assessment questions, however they can schedule a 1:1 with a portfolio support coach via this [link](https://theflatironschool.typeform.com/to/UUhrc7). If they are feeling frustrated, tell them that they can always reach out to the section lead in charge of the topic that they're own and they'll receive help soon. We never want to annoy or add to a student's frustration so be kind, friendly, and point them in the right direction for portfolio support.
 
 ## Resources
 
