@@ -23,7 +23,6 @@ As a Technical Coach, you’ll be getting all sorts of question from all sorts o
 
 ### [**Question Type**: Unsupported](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md#5-unsupported)
 **What is it**: We won't support these types of questions. Primarily these will be questions students have on assessments
-
 **Resolution**: Be kind and tell them that we can't support the question, if it's an assessment, let them know to schedule a 1:1 with a portfolio support coach and hand out this [link](https://theflatironschool.typeform.com/to/UUhrc7)
 
 ---
