@@ -44,6 +44,8 @@ As a Technical Coach, you’ll be getting all sorts of question from all sorts o
 - The lesson directory is empty
 - When submitting lessons, the student is asked to enter their username and password
 
+**Video Example** [technical coach helping a student understand technical issues](https://youtu.be/0Rege7kJoM8)
+
 We'll add more of these common problems as well as resolutions for these problems. Since they are very specific, each question will usually have its own strategy. For now, let’s take one of the above examples and lay out the resolution.
 
 ### Example: Students have trouble getting their lights to turn green when they fork a lab.
