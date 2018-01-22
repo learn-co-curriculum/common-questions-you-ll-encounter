@@ -44,6 +44,8 @@ As a Technical Coach, you’ll be getting all sorts of question from all sorts o
 - The lesson directory is empty
 - When submitting lessons, the student is asked to enter their username and password
 
+**Video Example** [technical coach helping a student understand technical issues](https://youtu.be/0Rege7kJoM8)
+
 We'll add more of these common problems as well as resolutions for these problems. Since they are very specific, each question will usually have its own strategy. For now, let’s take one of the above examples and lay out the resolution.
 
 ### Example: Students have trouble getting their lights to turn green when they fork a lab.
@@ -115,6 +117,8 @@ Students don’t have a specific testing issue, but instead they are struggling 
 - Students do not understand one specific instruction or how to get a test to pass on a lab
 - Students will ask about a specific concept
 - Students may initially have questions about failing tests, but after you’ve debugged and worked with them, you may realize that there are larger concepts that they don’t understand fully. (For example: You're working on rails form helpers and then realize that they have no idea what ‘params’ is)
+
+**Video Example** [Student is having issues conceptually and needs guidance to get on the right track](https://youtu.be/q2WoFBdyXxI)
 
 **Note: If you notice a payed student (V-000 batch) is struggling with a concept, make sure to note it in their admin profile and email or slack Ruth or the Section Lead in charge of the section so we can get this student additional help!**
 
