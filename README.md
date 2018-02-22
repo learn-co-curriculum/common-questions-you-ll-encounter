@@ -147,7 +147,3 @@ Most importantly, if a student asks a question on **assessments** we will not su
 ### Strategies for Resolution
 
 Kindly tell the student that you cannot answer their assessment questions, however they can schedule a 1:1 with a portfolio support coach via this [link](https://theflatironschool.typeform.com/to/UUhrc7). If they are feeling frustrated, tell them that they can always reach out to the section lead in charge of the topic that they're own and they'll receive help soon. We never want to annoy or add to a student's frustration so be kind, friendly, and point them in the right direction for portfolio support.
-
-## Resources
-
-- [A slightly more condensed version of this that you can use when on shift](https://github.com/flatiron-labs/learn-support/blob/master/common-learn-questions.md )
