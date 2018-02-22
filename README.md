@@ -103,7 +103,7 @@ Great, everything is working! But students are confused about the code. This is 
     - Having students debrief you: And at the end of this, have the student debrief to you what they did and why that worked. Tell them that they can take their time and that their response does not have to be just a sentence or two. Tell them that you want them to really think through the error message and what they did now to get their tests to pass.
         - This is important because you want them to reflect on their learning. And if it ended up being something that you ultimately provided the answer to, this will still ensure that they think about what happened.
 
-    - Don’t let the question turn into pair programming. If a student has multiple test failures, then after you’ve helped them solve one of them, tell the student that now they should try to solve the next error(s) on their own. If they get stuck, then they can come back and ask additional questions but for at least 15-30 minutes, they should try to debug and Google on their own.
+    - If a student has multiple test failures, then after you’ve helped them solve one of them, tell the student that now they should try to solve the next error(s) on their own. If they get stuck, then they can come back and ask additional questions but for at least 15-30 minutes, they should try to debug and Google on their own.
 
 * In using the Socratic method, you may realize pretty early on that the problem isn’t that they have questions with error messages, but there are larger conceptual issues that they are confused about.
     - If this is the case, then review the strategies for fixing conceptual questions listed below.
